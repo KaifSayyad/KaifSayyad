@@ -2,8 +2,7 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%F7951A&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kaif;+Welcome+to+My+Profile!;Machine+learning+enthusiast+;Web+Dev+enthusiast" alt="Kaif's tickering text" /></a>
 </p>
 
-(<img align="right" alt="banner" width="400" src="https://github.com/KaifSayyad/KaifSayyad/blob/main/banner.jpg">
-)
+(https://github.com/KaifSayyad/KaifSayyad/blob/main/banner.jpg)
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="kaifsayyad" /> </p>
 
