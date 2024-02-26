@@ -23,7 +23,7 @@
  <a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"><img src="https://github.com/KaifSayyad/KaifSayyad/blob/main/assets/BeautifulSoup.png" alt="BeautifulSoup" width="80" height="40"/></a>
  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/KaifSayyad/KaifSayyad/blob/main/assets/Selenium.png" alt="Selenium" width="40" height="40"/></a>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://github.com/KaifSayyad/KaifSayyad/blob/main/assets/Open-CV.png" alt="Open-CV" width="40" height="40"/></a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/KaifSayyad/KaifSayyad/blob/main/assets/Python-Streamlit.png" alt="Python-Streamlit" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/KaifSayyad/KaifSayyad/blob/main/assets/python-Streamlit.png" alt="Python-Streamlit" width="40" height="40"/></a>
  </p>
  
 <hr>
